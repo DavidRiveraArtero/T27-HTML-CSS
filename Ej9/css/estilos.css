@@ -1,0 +1,47 @@
+html,body{
+    width: 100%;
+    height: 90%;
+    margin: 0 auto;
+    font-size: 120%;
+}
+.PosicionTitulo{
+    margin-left: 15%;
+}
+.contenidoT{
+    width: 50%;
+    height: 58%;
+}
+.posicionMenu{
+    float: left;
+    margin-right: 8%;
+}
+.colorVerde{
+    color: chartreuse;
+}
+.colorChocolate{
+    color:chocolate;
+}
+.PagPrincipal{
+    background-color: rgb(241, 199, 84);
+    text-align: center;
+    width: 140%;
+    font-size: 130%;
+    margin-top: 20%;
+    list-style-type: none;
+}
+.botones{
+    text-align: center;
+    width: 140%;
+    font-size: 130%;
+    margin-top: 20%;
+    list-style-type: none;
+    background-color: rgb(142, 238, 158);
+   
+}
+.botones:hover{
+    background-color: rgb(241, 199, 84);
+}
+.link{
+    text-decoration: none;
+}
+
